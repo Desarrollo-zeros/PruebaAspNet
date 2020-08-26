@@ -1,0 +1,16 @@
+C:\Users\carlo\source\repos\Prueba\ClassLibrary1\bin\Debug\Domain.dll
+C:\Users\carlo\source\repos\Prueba\ClassLibrary1\bin\Debug\Domain.pdb
+C:\Users\carlo\source\repos\Prueba\ClassLibrary1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\carlo\source\repos\Prueba\ClassLibrary1\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\Prueba\ClassLibrary1\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\Prueba\ClassLibrary1\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\carlo\source\repos\Prueba\ClassLibrary1\obj\Debug\Domain.dll
+C:\Users\carlo\source\repos\Prueba\ClassLibrary1\obj\Debug\Domain.pdb
+C:\Users\carlo\source\repos\Prueba\Domain\bin\Debug\Domain.dll
+C:\Users\carlo\source\repos\Prueba\Domain\bin\Debug\Domain.pdb
+C:\Users\carlo\source\repos\Prueba\Domain\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\carlo\source\repos\Prueba\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\Prueba\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\Prueba\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\carlo\source\repos\Prueba\Domain\obj\Debug\Domain.dll
+C:\Users\carlo\source\repos\Prueba\Domain\obj\Debug\Domain.pdb

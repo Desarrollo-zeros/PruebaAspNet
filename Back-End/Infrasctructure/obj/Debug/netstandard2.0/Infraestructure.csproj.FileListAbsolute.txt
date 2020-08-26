@@ -1,0 +1,9 @@
+C:\Users\carlo\source\repos\Prueba\Infrasctructure\bin\Debug\netstandard2.0\Infraestructure.deps.json
+C:\Users\carlo\source\repos\Prueba\Infrasctructure\bin\Debug\netstandard2.0\Infraestructure.dll
+C:\Users\carlo\source\repos\Prueba\Infrasctructure\bin\Debug\netstandard2.0\Infraestructure.pdb
+C:\Users\carlo\source\repos\Prueba\Infrasctructure\obj\Debug\netstandard2.0\Infraestructure.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\Prueba\Infrasctructure\obj\Debug\netstandard2.0\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\Prueba\Infrasctructure\obj\Debug\netstandard2.0\Infraestructure.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\Prueba\Infrasctructure\obj\Debug\netstandard2.0\Infraestructure.AssemblyInfo.cs
+C:\Users\carlo\source\repos\Prueba\Infrasctructure\obj\Debug\netstandard2.0\Infraestructure.dll
+C:\Users\carlo\source\repos\Prueba\Infrasctructure\obj\Debug\netstandard2.0\Infraestructure.pdb
